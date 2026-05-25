@@ -21,7 +21,7 @@ VAR-based macroeconomic path simulation + Monte Carlo valuation of Argentine GDP
 ## Background
 
 - Convex optimization, SOS programming, polynomial methods (UNSW, under Prof. Jeyakumar)
-- - Stochastic processes, fixed income, term structure modeling
-  - - Time-series modeling in low-data, high-noise emerging market environments
-   
-    - **Languages:** Python, C++
+- Stochastic processes, fixed income, term structure modeling
+- Time-series modeling in low-data, high-noise emerging market environments
+
+**Languages:** Python, C++
